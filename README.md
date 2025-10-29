@@ -1,6 +1,6 @@
 # TOOBA Bot
 
-![TOOBA Bot GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![TOOBA Bot GIF](https://media.giphy.com/media/MzJomB2lqeMYE/giphy.gif)
 
 **TOOBA Bot** is your personal AI assistant built with **Streamlit** and **Google Gemini**. Ask questions, get answers, and enjoy an interactive chat experience directly from your browser.
 

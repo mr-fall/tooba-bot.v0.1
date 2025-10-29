@@ -9,7 +9,7 @@
 ## Features
 - <img src="https://img.icons8.com/ios-filled/20/ffffff/speech-bubble.png"/> Interactive chatbot interface
 - <img src="https://img.icons8.com/ios-filled/20/ffffff/artificial-intelligence.png"/> Powered by **Google Gemini AI** (Generative LLM)
-- <img src="https://img.icons8.com/ios-filled/24/ffffff/scroll.png"/> Maintains chat history during session
+- <img src="https://path-to-your-hosted-scroll-icon.png" width="24"/> Maintains chat history during session
 - <img src="https://img.icons8.com/ios-filled/20/ffffff/lightning-bolt.png"/> Lightweight, fast, and easy to use
 - <img src="https://img.icons8.com/ios-filled/20/ffffff/design.png"/> Modern UI with GIFs and icons
 

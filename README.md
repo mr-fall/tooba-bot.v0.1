@@ -7,11 +7,11 @@
 ---
 
 ## Features
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/speech-bubble.png"/> Interactive chatbot interface
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/artificial-intelligence.png"/> Powered by **Google Gemini AI** (Generative LLM)
-- <img src="https://path-to-your-hosted-scroll-icon.png" width="24"/> Maintains chat history during session
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/lightning-bolt.png"/> Lightweight, fast, and easy to use
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/design.png"/> Modern UI with GIFs and icons
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/speech-bubble.png"/> **Interactive Chatbot Interface** – chat naturally and effortlessly
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/artificial-intelligence.png"/> **Powered by Google Gemini AI** – advanced generative LLM technology
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/scroll.png"/> **Persistent Chat History** – your conversation stays during the session
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/lightning-bolt.png"/> **Fast & Lightweight** – quick performance, minimal load
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/design.png"/> **Modern UI** – stylish design with GIFs and sleek icons
 
 ---
 
@@ -30,4 +30,4 @@
 ### Clone the repository
 ```bash
 git clone https://github.com/mr-fall/tooba-bot.v0.1
-cd tooba-bot
+cd tooba-bot.v0.1

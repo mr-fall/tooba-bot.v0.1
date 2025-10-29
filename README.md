@@ -1,4 +1,4 @@
-# TOOBA Bot
+# TOOBA Bot V0.1
 
 ![TOOBA Bot GIF](https://media.giphy.com/media/MzJomB2lqeMYE/giphy.gif)
 
